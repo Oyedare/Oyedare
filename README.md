@@ -5,7 +5,7 @@ I'm a Frontend Developer
 ------------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [my portfolio](http://https://oyedaretemiloluwa.netlify.app/)
+* 🖥️  See my portfolio at [my portfolio](https://oyedaretemiloluwa.netlify.app/)
 * ✉️  You can contact me at [ooyedaretemiloluwa@gmail.com](mailto:ooyedaretemiloluwa@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on any open source project
