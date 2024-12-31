@@ -1,42 +1,107 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Temiloluwa
-==================================================================================================================================
+<h1 align="left">Hi there! 👋</h1>
 
-I'm a Frontend Developer
-------------------------
+###
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [my portfolio](https://oyedaretemiloluwa.netlify.app/)
-* ✉️  You can contact me at [ooyedaretemiloluwa@gmail.com](mailto:ooyedaretemiloluwa@gmail.com)
-* 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on any open source project
-* ⚡  I love to eat plantain
+<p align="left">My name is Temiloluwa Oyedare from Lagos, Nigeria– a passionate Frontend Engineer and Blockchain Engineer! 🚀</p>
 
-### Skills
+###
 
+<h2 align="left">🌟 What I do</h2>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-</p>
+###
 
+<h4 align="left">Frontend Development</h4>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.github.com/Oyedare" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oyedaretemiloluwa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_stephentony_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">✨ Expertise in modern JavaScript frameworks (React, Next.js,)<br>🎨 Specializing in animations and micro-interactions with libraries like GSAP, Framer Motion, and Three.js</p>
 
-### Badges
+###
 
-<b>My GitHub Stats</b>
+<h4 align="left">Blockchain Development</h4>
 
-<a href="http://www.github.com/Oyedare"><img src="https://github-readme-stats.vercel.app/api?username=Oyedare&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Oyedare's GitHub stats" /></a>
+###
 
-<a href="https://github.com/Oyedare" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oyedare&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">🛠 Building smart contracts using Solidity and Anchor<br>🔗 Exploring decentralized storage and token standards like ERC721, ERC20, and more</p>
 
+###
 
-[![@temiloluwa's Holopin board](https://holopin.io/api/user/board?user=temiloluwa)](https://holopin.io/@temiloluwa)
+<h2 align="left">📚 Currently Learning</h2>
+
+###
+
+<p align="left">🛠 Solidity<br>🛠 Rust</p>
+
+###
+
+<h2 align="left">🌐 My Projects</h2>
+
+###
+
+<p align="left">My portfolio website is WIP. You check my GitHub Repo to check out what I've worked on and contributed to</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+</div>
+
+###
+
+<h2 align="left">🌱 Fun Fact</h2>
+
+###
+
+<p align="left">When I’m not coding, you’ll find me reading and researching about decentralized finance and blockchain and also writing what i've learnt on Medium. You could also catch me watching Tiktok or watching Manchester United</p>
+
+###
+
+<h2 align="left">💡 Let's Collaborate</h2>
+
+###
+
+<p align="left">I'm open to collaborations on Frontend, Web3, and DeFi projects. Together, we can build something incredible! 💪</p>
+
+###
+
+<h2 align="left">📫 Get in Touch</h2>
+
+###
+
+<div align="left">
+  <a href="ooyedaretemiloluwa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/oyedaretemiloluwa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/_stephentony_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://stephentony.medium.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oyedare&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oyedare&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
